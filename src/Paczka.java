@@ -1,0 +1,3 @@
+interface Paczka {
+    void wyslij();
+}
